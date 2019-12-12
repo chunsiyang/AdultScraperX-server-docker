@@ -1,3 +1,4 @@
+# 此项目需要国际网络环境请自行解决！
 # AdultScraperX-server-docker
 AdultScraperX-server-docker  
 ### TG群：https://t.me/AdultScraperX
